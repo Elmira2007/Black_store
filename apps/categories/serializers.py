@@ -8,9 +8,22 @@ class CategorySerializer(serializers.ModelSerializer):
         fields = ('id', 'title', 'parent', 'slug')
         
         
+     
         
         
         
         
         
-    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
